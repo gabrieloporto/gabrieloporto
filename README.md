@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;Acerca de Mi
 <p>
-👋 ¡Saludos! Soy Gabriel, un Desarrollador Front-End apasionado y Especializado en React.js, Next.js y JavaScript.<br> Mi enfoque se centra en la creación de experiencias web excepcionales, y aunque mi camino profesional está comenzando,<br> he demostrado mis habilidades a través de proyectos personales innovadores.
+Desarrollador de software especializado en aplicaciones web modernas con React, Next.js y Node.js. Experiencia en sistemas escalables, integración de IA (RAG) y APIs. Enfoque en código limpio, buenas prácticas y experiencia de usuario.
 </p>
 
 ### 🛠 &nbsp;Habilidades
