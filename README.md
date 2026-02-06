@@ -1,21 +1,89 @@
-<h1 align="center"><b>Hola, Soy Gabriel Oporto </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<h1 align="center">
+  Hola, soy Gabriel Oporto 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer+💻"></a>
+  <strong>Desarrollador Full Stack / Frontend</strong><br/>
+  React · Next.js · Node.js · TypeScript · Web Apps · IA aplicada
 </p>
 
-### 👨🏻‍💻 &nbsp;Acerca de Mi
-<p>
-Desarrollador de software especializado en aplicaciones web modernas con React, Next.js y Node.js. Experiencia en sistemas escalables, integración de IA (RAG) y APIs. Enfoque en código limpio, buenas prácticas y experiencia de usuario.
+<p align="center">
+  <a href="https://gabrieloporto.vercel.app">🌐 Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/gabrieloporto/">LinkedIn</a> ·
+  <a href="https://github.com/gabrieloporto">GitHub</a> ·
+  <a href="mailto:gabrieloporto.dev@gmail.com">Email</a>
 </p>
 
-### 🛠 &nbsp;Habilidades
-<p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/></a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/nextjs/images/abcffb25-b56d-475f-9c82-26818776dc33.svg" alt="nextjs" width="40" height="40"/></a></p>
+---
 
-### 🤝🏻 &nbsp;Conectate conmigo
+## 👨🏻‍💻 Sobre mí
 
-<p align="left">
-<a href="https://gabrieloporto.vercel.app"><img src="https://img.shields.io/badge/-Portafolio%20Web-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/gabrieloporto"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:gabrieloporto.dev@gmail.com"><img src="https://img.shields.io/badge/-gabrieloporto.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+Soy desarrollador de software con foco en **aplicaciones web modernas full stack**.  
+Trabajo principalmente con **React, Next.js, Node.js y TypeScript**, desarrollando productos reales como **e-commerce completos**, **APIs** y **chatbots con IA (RAG)**.
+
+Me interesa especialmente la **IA aplicada al producto**, la experiencia de usuario y escribir código limpio, escalable y mantenible. Busco crecer en equipos donde se valore el aprendizaje continuo y el impacto real del software.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Frontend
+- React, Next.js (App Router)
+- TypeScript, JavaScript (ES6+)
+- HTML5, CSS3
+- Tailwind CSS, shadcn/ui, Radix UI
+- Diseño responsivo y accesible
+
+### Backend
+- Node.js, Express
+- APIs REST
+- Integración de servicios externos
+
+### Bases de Datos
+- PostgreSQL
+- MongoDB
+- Drizzle ORM
+
+### IA & Sistemas Inteligentes
+- Chatbots con LLMs
+- RAG (Retrieval-Augmented Generation)
+- Vector databases (Pinecone)
+- Embeddings y búsqueda semántica
+
+### Herramientas
+- Git & GitHub
+- Testing: Vitest, Playwright
+- Deploy: Vercel
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🛍️ NexoShop — E-commerce con Chatbot IA
+E-commerce full stack con carrito y checkout funcional, integrado con un chatbot inteligente basado en **RAG**, búsqueda semántica y generación de respuestas con IA.
+
+🔗 Demo: https://nexoshop-ecommerce.vercel.app/  
+🔗 Repo: https://github.com/gabrieloporto/nexoshop-ecommerce
+
+**Stack:** Next.js, TypeScript, PostgreSQL, Drizzle ORM, Tailwind CSS, Gemini AI, Pinecone
+
+---
+
+### 👟 Sneakers E-commerce — Pagos con Mercado Pago
+Tienda online de sneakers con backend propio en Node.js y **pagos reales integrados con Mercado Pago**.
+
+🔗 Demo: https://ecommerce-sneakers-product-page.vercel.app/  
+🔗 Repo: https://github.com/gabrieloporto/sneakers-ecommerce
+
+**Stack:** React, TypeScript, Node.js, Express, Mercado Pago SDK
+
+---
+
+## 🤝 Contacto
+
+Si te interesa colaborar, charlar sobre proyectos o sumar a alguien con ganas de crecer:
+
+📧 **gabrieloporto.dev@gmail.com**  
+🌐 **https://gabrieloporto.vercel.app**  
+🔗 **https://www.linkedin.com/in/gabrieloporto/**
